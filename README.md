@@ -1,14 +1,10 @@
 # ADEI
 ADEI - Ameen's Data Engineering Integrated House. A living knowledge base for Data Warehousing, Databricks, Pipelines, Python and AI. Inspired by the Tamil expression "Adei!" for control, correction, surprise and discovery.
 
-ADEI
-Ameen's Data Engineering Integrated House
-ADEI is a personal learning and knowledge management ecosystem designed to organize, build, connect, and continuously improve competencies in Data Warehousing, Data Engineering, Analytics, Python, Databricks, and AI.
-
 Why ADEI?
-ADEI stands for:
+ADEI stands for: Ameen's Data Engineering Integrated House
 
-Ameen's Data Engineering Integrated House
+Ameen's Data Engineering Integrated House, is a personal learning and knowledge management ecosystem designed to organize, build, connect, and continuously improve competencies in Data Warehousing, Data Engineering, Analytics, Python, Databricks, and AI.
 
 The name is also inspired by the Tamil expression:
 
